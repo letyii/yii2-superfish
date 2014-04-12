@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\widgets\let\superfish;
+namespace let\superfish;
 use yii\web\AssetBundle;
 
 class SuperfishAssets extends AssetBundle

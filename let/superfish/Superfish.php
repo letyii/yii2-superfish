@@ -10,10 +10,10 @@
  * Group: LetYii Team (letyii.com)
  */
 
-namespace frontend\widgets\let\superfish;
+namespace let\superfish;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
-use frontend\widgets\let\superfish\SuperfishAssets;
+use let\superfish\SuperfishAssets;
 
 class Superfish extends \yii\base\Widget {
 
